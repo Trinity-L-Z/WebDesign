@@ -10,8 +10,12 @@ h2, h3 {
   color: lemonchiffon;
 }
 
-p {
+p, p1 {
   color: lemonchiffon;
+}
+
+p1 {
+  text-align: center;
 }
 
 body{
