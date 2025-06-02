@@ -1,11 +1,11 @@
-div {
+header {
   padding: 35px;
   text-align: center;
   background-color: lemonchiffon;
   color: indianred;
 }
 
-h3 {
+div {
   text-align: center;
   color: lemonchiffon;
 }
