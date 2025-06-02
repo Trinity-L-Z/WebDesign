@@ -13,3 +13,10 @@ div {
 body{
   background-color: indianred;
 }
+
+li {
+  list-style-type: none;
+  color: navy;
+  display: inline-block;
+  font-family: Georgia, serif;
+}
