@@ -1,5 +1,6 @@
 div {
   padding: 35px;
+  border: 1px solid black;
   text-align: center;
   background-color: lemonchiffon;
   color: indianred;
