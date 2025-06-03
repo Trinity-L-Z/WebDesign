@@ -42,3 +42,9 @@ footer {
   text-align: center;
   color: #7fff00;
 }
+
+img {
+  display: block;
+  max-width: 50%;
+  margin: 0 auto;
+}
