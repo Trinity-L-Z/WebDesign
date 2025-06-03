@@ -21,3 +21,8 @@ li {
   display: inline-block;
   font-family: Georgia, serif;
 }
+
+footer {
+  text-align: center;
+  color: #7fff00;
+}
