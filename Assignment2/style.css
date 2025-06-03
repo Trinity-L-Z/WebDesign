@@ -15,7 +15,7 @@ body{
   background-color: indianred;
 }
 
-li {
+ul {
   list-style-type: none;
   color:#f5fffa;
   display: inline-block;
