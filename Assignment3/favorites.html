@@ -17,10 +17,38 @@
         </nav>
 
         <form>
-            <label>Submit your favorite book:</label>
-            <input type="text" name="favorite-book" placeholder="Type your favorite book here">
+            <fieldset>
+                <legend>Favorite Book Survey</legend>
 
-            <button type="submit">Submit</button>
+                <label>Your name:</label>
+                <input type="text" name="name" placeholder="e.g. Trinity Zachariasen">
+
+                <label>Email address:</label>
+                <input type="email" name="email" placeholder="e.g. trinscat@isawesome.com">
+
+                <label>Submit your favorite book:</label>
+                <input type="text" name="favorite-book" placeholder="Type your favorite book here">
+
+                <lable>Favorite genre:</lable>
+                <select name="genre">
+                    <option value="classic">Classic</option>
+                    <option value="fantasy">Fantasy</option>
+                    <option value="sci-fi">Sci-Fi</option>
+                    <option value="romance">Romance</option>
+                </select>
+
+                <p>Preferred format:</p>
+                    <label><input type="radio" name="format" value="print">Print</label>
+                    <label><input type="radio" name="format" value="ebook">eBook</label>
+                    <label><input type="radio" name="format" value="audiobook">Audiobook</label>
+
+                    <label>
+                        <input type="checkbox" name="Subscribe" value="yes">
+                        Subscribe to my monthly book club newsletter!
+                    </label>
+
+                <button type="submit">Submit</button>
+            </fieldset>            
         </form>
     </body>
 </html>
