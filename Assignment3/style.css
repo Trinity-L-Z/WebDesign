@@ -158,3 +158,20 @@ th {
   font-weight: 700;
   font-style: italic;
 }
+
+div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  max-width: 800px;
+  margin: 0 auto;
+  row-gap: 10px;
+  column-gap: 10px;
+}
+
+div img {
+  width: 30%;
+  height: auto;
+}
+
