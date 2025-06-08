@@ -175,3 +175,16 @@ div img {
   height: auto;
 }
 
+#gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+#gallery img {
+  width: 30%;
+  height: auto;
+}
