@@ -13,7 +13,7 @@ div {
 
 body{
   background-color: #cd5c5c;
-  font-family: 'Savate", sans-serif';
+  font-family: "Arvo", serif;
 }
 
 nav {
@@ -135,10 +135,26 @@ th {
   color: #5a3e36;
 }
 
-
-.savate {
-  font-family: "Savate", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: weight;
+.arvo-regular {
+  font-family: "Arvo", serif;
+  font-weight: 400;
   font-style: normal;
+}
+
+.arvo-bold {
+  font-family: "Arvo", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.arvo-regular-italic {
+  font-family: "Arvo", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.arvo-bold-italic {
+  font-family: "Arvo", serif;
+  font-weight: 700;
+  font-style: italic;
 }
