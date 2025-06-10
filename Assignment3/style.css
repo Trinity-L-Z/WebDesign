@@ -28,7 +28,7 @@ ul {
 }
 
 li:hover {
-  background-color:cornflowerblue;
+  background-color:#fffacd;
   list-style-type: none;
   color:#f5fffa;
   display: inline-block;
