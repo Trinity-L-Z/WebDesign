@@ -27,15 +27,23 @@
     aspect-ratio: 1 / 1;
     display: flex;
     justify-content: center;
-  }
 
-  .item img {
+    .item img {
     padding: 0;
     width: 100%;
     height: auto;
     display: block;
-    border-radius: 8px;
+    border-radius: 8px; 
   }
+
+    .item p {
+    text-align: center;
+    display: flex;
+    align-items: center;
+  }
+  }
+
+  
 
   h1 {
     text-align: center;
