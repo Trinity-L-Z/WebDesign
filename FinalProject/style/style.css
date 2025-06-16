@@ -34,7 +34,7 @@
     height: auto;
     display: block;
     border-radius: 8px; 
-  }
+  } 
 
     .item p {
     text-align: center;
@@ -42,7 +42,6 @@
     align-items: center;
   }
   }
-
   
 
   h1 {
