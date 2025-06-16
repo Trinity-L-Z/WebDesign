@@ -24,6 +24,9 @@
     background-color:rgb(241, 237, 203);
     padding: 80px 50px;
     border-radius: 5px;
+    aspect-ratio: 1 / 1;
+    display: flex;
+    justify-content: center;
   }
 
   h1 {
