@@ -11,3 +11,13 @@
         padding: 10px;
     }
 }
+
+.gallery {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+  }
+  
+.item {
+   /* item styles here */
+  }
