@@ -22,7 +22,7 @@
   
 .item {
     background-color:lightgreen;
-    padding: 80px 80px;
+    padding: 80px, 80px;
     border-radius: 8px;
   }
 
