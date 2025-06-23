@@ -58,6 +58,11 @@
     color: #663399;
   }
 
+  img:hover {
+    transform: scale(1.03) rotate(-2deg);
+    transition: transform 0.2s ease-in-out;
+  }
+
   h1 {
     text-align: center;
   }
