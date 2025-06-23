@@ -54,6 +54,10 @@
     width: 100%;
   }
 
+  a:visited {
+    color: #663399;
+  }
+
   h1 {
     text-align: center;
   }
