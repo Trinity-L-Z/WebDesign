@@ -58,6 +58,13 @@
     color: #663399;
   }
 
+  a:focus,
+  button:focus,
+  input:focus {
+    outline: 2px solid #4a90e2;
+    outline-offset: 2px;
+  }
+
   h1 {
     text-align: center;
   }
