@@ -36,7 +36,7 @@
     border-radius: 8px; 
   } 
 
-    .item p {
+.item p {
     text-align: center;
     display: flex;
     align-items: center;
@@ -79,4 +79,5 @@
 
   body {
     margin: 0;
+    background-color:#b2aeb6;
   }
